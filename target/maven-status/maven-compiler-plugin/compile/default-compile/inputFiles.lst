@@ -1,0 +1,15 @@
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/repositories/CategoryRepository.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/Document.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/services/KnowledgeBaseService.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/KnowledgebaseApplication.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/repositories/DocumentRepository.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/UserRoles.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/UserDetails.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/Article.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/FAQ.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/Category.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/Language.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/controllers/KnowledgeBaseController.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/model/KnowledgeDetails.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/repositories/KnowledgeBaseRepository.java
+/home/ebarpuj/Downloads/knowledgebase/src/main/java/com/genesys/knowledgebase/repositories/UserRepository.java

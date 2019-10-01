@@ -1,0 +1,15 @@
+com/genesys/knowledgebase/services/KnowledgeBaseService.class
+com/genesys/knowledgebase/model/UserRoles.class
+com/genesys/knowledgebase/model/FAQ.class
+com/genesys/knowledgebase/repositories/DocumentRepository.class
+com/genesys/knowledgebase/model/UserDetails.class
+com/genesys/knowledgebase/repositories/KnowledgeBaseRepository.class
+com/genesys/knowledgebase/model/Article.class
+com/genesys/knowledgebase/controllers/KnowledgeBaseController.class
+com/genesys/knowledgebase/model/Document.class
+com/genesys/knowledgebase/repositories/UserRepository.class
+com/genesys/knowledgebase/model/KnowledgeDetails.class
+com/genesys/knowledgebase/repositories/CategoryRepository.class
+com/genesys/knowledgebase/KnowledgebaseApplication.class
+com/genesys/knowledgebase/model/Language.class
+com/genesys/knowledgebase/model/Category.class
